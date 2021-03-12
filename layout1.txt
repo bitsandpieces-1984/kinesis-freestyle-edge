@@ -36,7 +36,7 @@ fn [F11]>[vol-]
 fn [F12]>[vol+]
 fn [del]>[LED]
 fn [hk1]>[p]
-fn {hk1}>{-shift}{h}{+shift}{a}{s}{h}{n}{u}{h}{a}{n}{a}{-shift}{2}{+shift}{2}{0}{2}{2}
+fn {hk1}>{-shift}{m}{+shift}{f}{a}{v}{o}{u}{r}{i}{t}{e}{-shift}{p}{+shift}{w}{d}{8}{4}
 fn {hk2}>{x1}{p}{r}{o}{m}{i}{t}{per}{b}{h}{a}{t}{t}{a}{c}{h}{a}{r}{y}{a}{-shift}{2}{+shift}{o}{r}{a}{c}{l}{e}{per}{c}{o}{m}
 fn [hk3]>[lft]
 fn {hk3}>{-ctrl}{-alt}{lft}{+ctrl}{+alt}
