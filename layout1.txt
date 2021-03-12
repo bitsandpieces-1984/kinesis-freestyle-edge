@@ -1,0 +1,52 @@
+{F1}>{-lwin}{o}{+lwin}
+[F2]>[t]
+[F3]>[n]
+[prnt]>[F13]
+[scrlk]>[F14]
+[pause]>[F15]
+[del]>[bspc]
+[hk1]>[s]
+{hk1}>{-shift}{m}{+shift}{f}{a}{v}{o}{u}{r}{i}{t}{e}{-shift}{p}{+shift}{w}{d}{8}{4}
+{lshft}{hk1}>{-shift}{c}{+shift}{h}{0}{r}{-shift}{2}{+shift}{b}{a}{l}{i}
+[hk2]>[esc]
+[hk3]>[u]
+{hk3}>{-ctrl}{-alt}{u}{+ctrl}{+alt}
+[hk4]>[i]
+{hk4}>{-ctrl}{-alt}{i}{+ctrl}{+alt}
+[hk5]>[j]
+{hk5}>{x1}{-ctrl}{-alt}{j}{+ctrl}{+alt}
+[hk6]>[k]
+{hk6}>{x1}{-ctrl}{-alt}{k}{+ctrl}{+alt}
+[caps]>[bspc]
+{ralt}{hk7}>{-shift}{m}{+shift}{f}{a}{v}{o}{u}{r}{i}{t}{e}{-shift}{p}{+shift}{w}{d}{8}{4}
+[rshft]>[caps]
+[hk9]>[fnshf]
+[hk10]>[hyper]
+{hk10}>{s8}{x1}{-lctrl}{a}{+lctrl}
+[lwin]>[lalt]
+[lalt]>[lwin]
+[ralt]>[hyper]
+[rctrl]>[meh]
+fn [next]>[a]
+fn [F7]>[prev]
+fn [F8]>[play]
+fn [F9]>[next]
+fn [F10]>[mute]
+fn [F11]>[vol-]
+fn [F12]>[vol+]
+fn [del]>[LED]
+fn [hk1]>[p]
+fn {hk1}>{-shift}{h}{+shift}{a}{s}{h}{n}{u}{h}{a}{n}{a}{-shift}{2}{+shift}{2}{0}{2}{2}
+fn {hk2}>{x1}{p}{r}{o}{m}{i}{t}{per}{b}{h}{a}{t}{t}{a}{c}{h}{a}{r}{y}{a}{-shift}{2}{+shift}{o}{r}{a}{c}{l}{e}{per}{c}{o}{m}
+fn [hk3]>[lft]
+fn {hk3}>{-ctrl}{-alt}{lft}{+ctrl}{+alt}
+fn [hk4]>[rght]
+fn {hk4}>{-ctrl}{-alt}{rght}{+ctrl}{+alt}
+fn [hk5]>[up]
+fn {hk5}>{-ctrl}{-alt}{up}{+ctrl}{+alt}
+fn [hk6]>[dwn]
+fn {hk6}>{-ctrl}{-alt}{dwn}{+ctrl}{+alt}
+fn {hk7}>{x1}{p}{p}{b}{h}{a}{t}{t}{a}
+fn {hk8}>{x1}{p}{r}{o}{m}{i}{t}{per}{b}{h}{a}{t}{t}{a}{c}{h}{a}{r}{a}{y}{a}{-shift}{2}{+shift}{o}{r}{a}{c}{l}{e}{per}{c}{o}{m}
+fn [hk9]>[fnshf]
+fn [hk10]>[meh]
